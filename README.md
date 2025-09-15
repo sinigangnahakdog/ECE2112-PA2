@@ -11,6 +11,12 @@ The following tools were used in the completion of this experiment: <br>
 - Jupyter Notebook
 
 
+## File Inclusions
+1. **X_Normalized.npy** - Normalized array
+2. **div_by_3.npy** - Divisible by 3 array
+3. **PA2 - Garcia.ipynb** - Jupyter Notebook containing Problem 1 and 2
+
+
 ## Normalization Problem
 In the first given problem, a 5x5 ndarray was created and stored to variable X. The ndarray was normalized by performing operations on the obtained element-wise mean and element-wise standard deviation, which are existing features in the NumPy library. Then, the normalized ndarray was saved as *X_normalized.npy* and printed alongside the original Array X for comparison.
 
